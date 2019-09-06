@@ -1,9 +1,17 @@
 # pytorch-Pyramid-Attention-Networks-PAN-
 train code + inference code were released. [pytorch version]
 
+# PAN network：
+![image](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/blob/master/pan.png)
+## FPA:
+![image](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/blob/master/fpa.png)
+## GAU:
+![image](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/blob/master/gau.png)
+
+
+## How to train
 first enter the directory:
 and follow the instruction:
-## How to train
 1.write the dataset path in mypath.py
 2. and run 
 ```
