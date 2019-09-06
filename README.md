@@ -7,7 +7,7 @@ and follow the instruction:
 1.write the dataset path in mypath.py
 2. and run 
 ```
-pytyhon train.py
+python train.py
 ```
 after trainning,it will save two model: convnet.pth,pan.pth
 ## How to Inference：
